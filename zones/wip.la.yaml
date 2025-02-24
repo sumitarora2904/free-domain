@@ -333,6 +333,7 @@ svip: [ns1.dynv6.com, ns2.dynv6.com, ns3.dynv6.com, ns1.dynv6.com]
 aldsd: [ns1.huaweicloud-dns.cn, ns1.huaweicloud-dns.com, ns1.huaweicloud-dns.net, ns1.huaweicloud-dns.org]
 ayai: [ns1.he.net, ns2.he.net, ns3.he.net, ns4.he.net]
 wfj: [alec.ns.cloudflare.com, sloan.ns.cloudflare.com, sloan.ns.cloudflare.com, alec.ns.cloudflare.com]
+arora: [ns61.cloudns.net, ns62.cloudns.com, ns63.cloudns.net, ns64.cloudns.uk] # Register arora.wip.la
 luckypoem: [ns1.cloudns.net, ns2.cloudns.net, ns3.cloudns.net, ns4.cloudns.net]
 nbl: [brian.ns.cloudflare.com, raina.ns.cloudflare.com, raina.ns.cloudflare.com, raina.ns.cloudflare.com]
 wzfou: [ns1.huaweicloud-dns.cn, ns1.huaweicloud-dns.com, ns1.huaweicloud-dns.net, ns1.huaweicloud-dns.org]
